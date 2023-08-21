@@ -1,24 +1,33 @@
 # LocalLibrary
 
-## Summary
-LocalLibrary enables you to visualize information about your local library. This project was developed per Thinkful's curriculum in order to learn frontend development.
+LocalLibrary is a comprehensive tool that allows you to gain valuable insights into your local library's information. This project was developed in accordance with Thinkful's curriculum, with a primary focus on honing frontend development skills.
 
-<img width="1439" alt="LocalLibrary" src="https://github.com/EthenThinkful/LocalLibrary/assets/104235709/43ae3cff-2021-4fdd-a41d-f5e63a859e1f">
+![LocalLibrary](https://github.com/EthenThinkful/LocalLibrary/assets/104235709/43ae3cff-2021-4fdd-a41d-f5e63a859e1f)
 
-### About 
+## About
 
-#### Home Page
-View statistics about your library in four different categories:
-1.) "General Stats": Displays how many books are at your library, how many books are currently being borrowed, and how many accounts are currently registered with the library
-2.) "Most Common Genres"
-3.) "Most Popular Books"
-4.) "Most Popular Authors"
+### Home Page
+The Home Page offers an array of statistical information pertaining to your library, categorized as follows:
 
-#### Stats by Book Page
-View a book's availability, that book's author & genre, and its recent borrowers.
+1. **General Stats**: This section presents a concise overview of key metrics, including the total number of books in the library, the quantity of books currently on loan, and the count of registered library accounts.
 
-#### Stats by Account
-View all registered accounts & account information including if an account is currently borrowing a book.
+2. **Most Common Genres**: Explore the library's most prevalent book genres, providing insight into the reading preferences of the community.
+
+3. **Most Popular Books**: Discover the books that have captured the attention of readers and gained significant popularity recently.
+
+4. **Most Popular Authors**: Delve into a list of the most sought-after authors within the library's collection.
+
+### Stats by Book Page
+On the Stats by Book Page, you can access detailed information about specific books:
+
+- Availability: Check whether a particular book is available for borrowing or currently on loan.
+- Author & Genre: Gain insight into the authorship and genre classification of the selected book.
+- Recent Borrowers: Discover who the recent borrowers of the book are, offering a glimpse into its popularity.
+
+### Stats by Account
+The Stats by Account section provides a comprehensive view of all registered accounts along with pertinent account information. Notably, it indicates whether an account is presently borrowing a book.
+
+This project exemplifies the seamless integration of frontend development principles and delivers a user-friendly interface for exploring the library's data.
 
 
 
