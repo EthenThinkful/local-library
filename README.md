@@ -1,3 +1,4 @@
 # LocalLibrary
-This is my Local Library project 
-https://ethenthinkful.github.io/LocalLibrary/
+
+## Summary
+Frontend project developed per Thinkful's curriculum to view statistics on a local library.
